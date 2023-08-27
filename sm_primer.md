@@ -24,3 +24,12 @@ While there are many EFTs which have been developed to address different situati
 SCET is an example of a top down theory. -->
 
 Making predictions for the production of top quarks at hadron colliders is complicated by the fact that the top quark itself is a pretty massive particle. In fact, it is the heaviest fundamental particle we know of. Often, if we're making predictions involving other fermions, we can simply ignore the fact they have mass knowing any effect it has will be limited to corrections which are (hopefully) small compared to our prediction. We can almost never do this with top quarks.
+
+
+
+The Standard Model (SM) is defined by its symmetries and particle content, both of which are encoded in its Lagrangian. Almost all operators in the Lagrangian have mass-dimension four, the one exception being a dimension two operator associated with the Higgs potential. The theory is thus renormalizable and predicitive and works, at the time of writing, frustratingly well at experiments like the Large Hadron Collider (LHC) where it is routinely and thouroughly tested. Yet we know this isn't the end of the story; there are too many unexplained phenomena which the SM cannot/does not account for. Questions around dark matter, gravity, neutrino masses, the origin of fermion masses (notably their hierarchy - the mechanism of them having a non-zero mass looks consistent with the Higgs mechnaism for now), and dark energy just to mention a few.
+
+There exists a massive ocean of possibilities regarding how the SM could be extended to provide answers for some of these remaining issues. Usually these extensions result in the inclusion of specific new particles in addition to the spectrum we are used to from the SM. Each model might have a certain set of new particles or effects, each with their own interactions and set of phenomena we might be able to observe in experiments, and we can set up experimental serches for each scenario which looks promising.
+
+*But as of the time of writing, now new physics beyond the SM has been definitvely observed..*
+

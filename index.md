@@ -13,11 +13,13 @@ I am currently a postdoctoral researcher at the [Max Planck Institute for Physic
 
 ## Research
 
-Most of my research has revolved around the theme of "Effective Field Theories". This powerful framework can be used not only to make accurate predictions for particle physics expierments (notably The LHC), but also explore how (heavy) physics beyond the Standard Model might manifest itself at the energy regiemes probed by our current experiments.
+*<font size="3" color="GoldenRod">This is currently written assuming a slight background in at least the basic concepts of quantum field theory on behalf of the reader. I am thinking of including a <u>SM Primer</u> like article for more background. </font>*
 
-A large focus of my work has revolved around the so-called Standard Model Effective Theory (SMEFT). Taking the SM seriously as an EFT, this framework includes new features (higher mass dimension operators / non-renormalizable terms) in the SM which could appear from new physics which is just beyond the reach of our current experiments. Here I worked on calculating the impact the (naively most relevant) effects might have on decays of heavy bosons, most notably the Higgs boson.
+Most of my research has revolved around the theme of "Effective Field Theories" (EFTs). This powerful framework can be used not only to make accurate predictions for particle physics expierments, but also explore how (heavy) physics beyond the Standard Model might manifest itself at the energy regiemes probed by our current experiments, even if we can't make the particles directly.
 
-Beside SMEFT, my research also touched a number of different areas including working on calculations of increased accuracy for processes at the Large Hadron Collide, predominantly for top-quark pair production.
+A large focus of my work has revolved around the so-called Standard Model Effective Theory (SMEFT). Taking the Standard Model (SM) seriously as an EFT, this framework includes new features in the SM (higher mass dimension operators / non-renormalizable terms) which could result from new physics which is just beyond the reach of our current experiments. Here, one of my larger projects involved calculating the effects the first set of these new effects might have on the decay of heavy bosons (most notably the Higgs), and doing so to a high accuracy.
+
+Beside SMEFT, my research also touched a number of different areas including working on calculations of increased accuracy for standard processes at the Large Hadron Collide, predominantly for top-quark pair production.
 
 I didn't want to clog the homepage with too much detail on this, but for those who want more specific details I've written more in the [Research](/research.md) section. Hopefully still in an accessible style.
 
